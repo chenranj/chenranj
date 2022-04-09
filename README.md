@@ -13,4 +13,4 @@
 ![wechat](https://img.shields.io/badge/WeChat-chenran__j-07c160?logo=WeChat&logoColor=white)
 ![qq](https://img.shields.io/badge/QQ-964465647-eb1923?logo=TencentQQ&logoColor=white)
 
-You have somehow managed to find my page. This is Chenran Jin. I am a Java backend software development engineer. Experienced in Java, Python, PHP, and Swift. Familiar with Go and C. After 3 years at Valdosta State University, I transferred to Univ. at Buffalo, changed my major to computing and applied mathematics. I stumbled upon a good idea to put together what I easily forget, and it is hidden now.
+You have somehow managed to find my page. This is Chenran Jin. I am a Java backend software development engineer. Experienced in Java, Python, PHP, and Swift. Graduated from University at Buffalo in computing and applied mathematics. I stumbled upon a good idea to put together what I easily forget, and it is hidden now.
