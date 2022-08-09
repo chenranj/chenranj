@@ -13,7 +13,7 @@
 ![wechat](https://img.shields.io/badge/WeChat-chenran__j-07c160?logo=WeChat&logoColor=white)
 ![qq](https://img.shields.io/badge/QQ-964465647-eb1923?logo=TencentQQ&logoColor=white)
 
-You have somehow managed to find my page. This is Chenran Jin. I am a Java backend software development engineer. Experienced in Java, Python, PHP, and Swift. Graduated from University at Buffalo in computing and applied mathematics. I stumbled upon a good idea to put together what I easily forget, and it is hidden now.
+You have somehow managed to find my page. This is Chenran Jin. I am a Java backend software development engineer. Experienced in Java, Python, PHP, and Swift. From University at Buffalo in computing and applied mathematics. I stumbled upon a good idea to put together what I easily forget, and it is hidden now.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=chenranj&show_icons=true" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenranj" height="200"/></p>
 <p align="center"><sub>Copyright © Chenran Jin</sub></p>
