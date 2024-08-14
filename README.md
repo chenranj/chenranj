@@ -13,7 +13,6 @@
 ![wechat](https://img.shields.io/badge/WeChat-chenran__j-07c160?logo=WeChat&logoColor=white)
 ![qq](https://img.shields.io/badge/QQ-964465647-eb1923?logo=TencentQQ&logoColor=white)
 
-You have somehow managed to find my page. This is Chenran Jin. I am a Java backend software development engineer. Experienced in Java, Python, PHP, and Swift. From University at Buffalo in computing and applied mathematics. I stumbled upon a good idea to put together what I easily forget, and it is hidden now.
+I am a Software Engineer at Plymouth Rock Assurance, where I use Java, Spring, and AWS to implement system multi-request processing and business logic. I graduated from University at Buffalo with a Bachelor of Arts in Computational and Applied Mathematics, which gives me a solid foundation for solving complex problems and applying data analysis techniques. In my previous roles, I have developed web applications, data synchronization features, and database connectivity solutions using various technologies such as Spring boot, Maven, PHP, AWS Lambda, DevOps, HTML, CSS, JavaScript, JDBC, and etc. I have also collaborated with contractors, team members, and clients to ensure high-quality deliverables and positive outcomes.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=chenranj&show_icons=true" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenranj" height="200"/></p>
 <p align="center"><sub>Copyright © Chenran Jin</sub></p>
